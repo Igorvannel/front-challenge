@@ -25,9 +25,8 @@ Avant de commencer, assurez-vous d'avoir installé les éléments suivants sur v
 1. Clonez le dépôt sur votre machine locale :
 
    ```bash
-   git clone https://github.com/Igorvannel/CRUD-challenge.git
-   cd CRUD-challenge
-   cd challenge-front
+   git clone https://github.com/Igorvannel/front-challenge.git
+   '''
    
    
 2. Installez les dépendances nécessaires :
